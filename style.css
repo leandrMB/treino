@@ -1,0 +1,24 @@
+ul{
+    width: 400px;
+    height: 200px;
+    background-image: url(img/backgorund.png);
+    background-size: 100%;
+    list-style-type: none;
+    list-style-position: inside;
+}
+li{
+    font-style: oblique;
+    font-size: large;
+    padding: 1px;
+    margin: 3px;
+}
+.IG{
+    list-style-image: url(img/Insta.png);
+}
+.TT{
+    list-style-image: url(img/Twitter.png);
+}
+.YT{
+    list-style-image: url(img/Youtube.png);
+}
+
